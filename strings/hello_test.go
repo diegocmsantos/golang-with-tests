@@ -1,6 +1,8 @@
-package main
+package strings
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestHello(t *testing.T) {
 
